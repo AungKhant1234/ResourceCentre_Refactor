@@ -21,7 +21,7 @@ public class ResourceCentre {
 		chromebookList.add(new Chromebook("CB002", "HP Chromebook", "Win 10"));
 
 		int option = 0;
-
+		
 		while (option != OPTION_QUIT) {
 
 			ResourceCentre.menu();
